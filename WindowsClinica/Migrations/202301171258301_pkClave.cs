@@ -1,0 +1,16 @@
+﻿namespace WindowsClinica.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class pkClave : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
